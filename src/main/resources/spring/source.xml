@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<result>
+  <license-uri>http://creativecommons.org/licenses/by-sa/3.0/at/</license-uri>
+  <license-name>Attribuzione - Condividi allo stesso modo 3.0 Austria</license-name>
+  <deprecated>false</deprecated>
+  <rdf>
+    <rdf:RDF xmlns="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <Work xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about=""><license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/at/"/></Work><License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/at/">
+    <permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+  </License>
+</rdf:RDF>
+  </rdf>
+  <licenserdf>
+    <rdf:RDF xmlns="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/at/">
+    <permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+  </License>
+</rdf:RDF>
+  </licenserdf>
+  <html><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/at/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/at/88x31.png"/></a><br/>Quest' opera è distribuita con <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/at/">licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 Austria</a>.</html>
+</result>
